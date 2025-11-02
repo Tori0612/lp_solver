@@ -3,3 +3,5 @@ pulp
 pandas
 matplotlib
 numpy
+io 
+openpyxl
